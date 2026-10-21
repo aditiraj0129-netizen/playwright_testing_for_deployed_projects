@@ -1,4 +1,4 @@
-# SiteWatch
+ SiteWatch
 
 A daily website health checker built with Python and Playwright.
 
@@ -6,7 +6,7 @@ Every morning it opens your websites in a real browser, checks they work,
 takes desktop and mobile screenshots, publishes a simple report, and sends
 you a Telegram or email alert if something breaks.
 
-## What it checks
+What it checks
 
 1. Page opens without errors
 2. Loads in under 5 seconds
@@ -15,8 +15,14 @@ you a Telegram or email alert if something breaks.
 5. No JavaScript errors
 6. Fits on a mobile screen
 7. Optional: a full user journey (like login)
+8. <img width="456" height="460" alt="Screenshot 2026-10-22 at 12 14 22 AM" src="https://github.com/user-attachments/assets/a5fc76a8-5396-47ee-9882-c12820784f88" />
+9. <img width="480" height="461" alt="Screenshot 2026-10-22 at 12 14 08 AM" src="https://github.com/user-attachments/assets/ad3f475b-e7e9-4e2a-98e3-c39cc5e916d0" />
 
-## Run it on your laptop
+<img width="476" height="459" alt="Screenshot 2026-10-22 at 12 13 58 AM" src="https://github.com/user-attachments/assets/bf7ce76b-cfcb-421b-bc1f-c9a9a176efc1" />
+
+
+
+Run it on your laptop
 
 **Mac / Linux / Git Bash:**
 ```bash
