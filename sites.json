@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Portfolio",
+    "url": "https://aditiraj-rosy.vercel.app/",
+    "must_contain": "AI Engineer"
+  },
+  {
+    "name": "StudyFocus",
+    "url": "https://studyfocuswithproxy.vercel.app/",
+    "must_contain": "Your Study Space"
+  },
+  {
+    "name": "CropDoc + StreetCare",
+    "url": "https://web-rho-three-69.vercel.app",
+    "must_contain": "crops"
+  },
+  {
+    "name": "Pizza Delivery App",
+    "url": "https://pizza-delivery-app-alpha.vercel.app/"
+  },
+  {
+    "name": "Return Detection",
+    "url": "https://returndetection-ks5p.vercel.app/"
+  },
+  {
+    "name": "TaskFlow",
+    "url": "https://taskflow-mern-phi.vercel.app"
+  }
+]
