@@ -15,10 +15,11 @@ What it checks
 5. No JavaScript errors
 6. Fits on a mobile screen
 7. Optional: a full user journey (like login)
-8. <img width="456" height="460" alt="Screenshot 2026-10-22 at 12 14 22 AM" src="https://github.com/user-attachments/assets/a5fc76a8-5396-47ee-9882-c12820784f88" />
-9. <img width="480" height="461" alt="Screenshot 2026-10-22 at 12 14 08 AM" src="https://github.com/user-attachments/assets/ad3f475b-e7e9-4e2a-98e3-c39cc5e916d0" />
+8. <img width="356" height="460" alt="Screenshot 2026-10-22 at 12 14 22 AM" src="https://github.com/user-attachments/assets/a5fc76a8-5396-47ee-9882-c12820784f88" />
+9. <img width="380" height="461" alt="Screenshot 2026-10-22 at 12 14 08 AM" src="https://github.com/user-attachments/assets/ad3f475b-e7e9-4e2a-98e3-c39cc5e916d0" />
 
-<img width="476" height="459" alt="Screenshot 2026-10-22 at 12 13 58 AM" src="https://github.com/user-attachments/assets/bf7ce76b-cfcb-421b-bc1f-c9a9a176efc1" />
+<img width="376" height="459" alt="Screenshot 2026-10-22 at 12 13 58 AM" src="https://github.com/user-attachments/assets/bf7ce76b-cfcb-421b-bc1f-c9a9a176efc1" />
+<img width="367" height="356" alt="Screenshot 2026-10-22 at 12 13 48 AM" src="https://github.com/user-attachments/assets/31f8e737-5561-489e-be1e-cbf343cbcbc8" />
 
 
 
